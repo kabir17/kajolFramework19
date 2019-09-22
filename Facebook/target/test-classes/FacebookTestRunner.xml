@@ -11,7 +11,7 @@
 
     <test name = "Facebook Home">
         <classes>
-            <class name="home.TestSocialMedia"/>
+            <class name="home.Testhomepage"/>
         </classes>
 
     </test>

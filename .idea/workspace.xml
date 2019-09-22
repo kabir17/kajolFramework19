@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4b1db86-76b7-4b1e-a662-216b82bb541f" name="Default Changelist" comment="" />
+    <list default="true" id="e4b1db86-76b7-4b1e-a662-216b82bb541f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/home/TestHOMEpAGE.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/home/TestHOMEpAGE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/src/test/java/home/TestNEWS.java" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/src/test/java/home/TestNEWS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/test-classes/home/TestNEWS.class" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/test-classes/home/TestNEWS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/src/test/java/home/Testhomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/src/test/java/home/Testhomepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/src/test/resources/FacebookTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/src/test/resources/FacebookTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/target/test-classes/FacebookTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/FacebookTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/target/test-classes/home/Testhomepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/home/Testhomepage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -22,13 +34,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <state relative-caret-position="450">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#954#955#0" expanded="true" />
-                <element signature="e#984#985#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1025">
+              <caret line="41" selection-start-line="14" selection-start-column="3" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -36,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="925">
+              <caret line="37" selection-start-line="7" selection-start-column="4" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -45,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/home/TestHOMEpAGE.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="12" />
+            <state relative-caret-position="308">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,19 +74,53 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNN/src/test/java/home/TestNEWS.java">
+        <entry file="file://$PROJECT_DIR$/CNN/src/test/resources/CNNTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="325">
+              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/home/Testhomepage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/FacebookTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRnner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="325">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -106,20 +159,20 @@
         <option value="$PROJECT_DIR$/Amazon/src/main/java/amazontest/TestAmazon.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/amazontest/AmazonHome.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/amazon/AmazonHome.java" />
-        <option value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookTestRunner.xml" />
         <option value="$PROJECT_DIR$/CNN/src/test/java/home/TestNews.java" />
         <option value="$PROJECT_DIR$/Facebook/src/test/java/home/TestSocialMedia.java" />
         <option value="$PROJECT_DIR$/CNN/pom.xml" />
-        <option value="$PROJECT_DIR$/Facebook/pom.xml" />
-        <option value="$PROJECT_DIR$/Facebook/src/test/java/home/Testhomepage.java" />
         <option value="$PROJECT_DIR$/CNN/src/test/resources/CNNTestRunner.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/home/TestAmazonHome.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Amazon/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRnner.xml" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/home/TestHOMEpAGE.java" />
         <option value="$PROJECT_DIR$/CNN/src/test/java/home/TestNEWS.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Facebook/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/home/TestHOMEpAGE.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/java/home/Testhomepage.java" />
       </list>
     </option>
   </component>
@@ -171,25 +224,25 @@
             <path>
               <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -197,7 +250,7 @@
             <path>
               <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -206,7 +259,7 @@
             <path>
               <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -214,48 +267,7 @@
             <path>
               <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="CNN" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="CNN" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="CNN" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="CNN" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="CNN" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="browserdriver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
@@ -287,22 +299,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/CNN/src/test/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/browserdriver" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -338,7 +344,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRnner.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Facebook/src/test/resources/FacebookTestRunner.xml">
     <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRnner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Amazon" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRnner.xml" />
@@ -349,35 +355,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAmazonHome" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Amazon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="home.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="home" />
-      <option name="MAIN_CLASS_NAME" value="home.TestAmazonHome" />
-      <option name="TEST_OBJECT" value="CLASS" />
+    <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/CNN/src/test/resources/CNNTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CNN" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/CNN/src/test/resources/CNNTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAmazonHome.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Amazon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="home.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="home" />
-      <option name="MAIN_CLASS_NAME" value="home.TestAmazonHome" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
+    <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Facebook/src/test/resources/FacebookTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Facebook" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -421,11 +412,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Facebook/src/test/resources/FacebookTestRunner.xml" />
         <item itemvalue="TestNG.C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRnner.xml" />
-        <item itemvalue="TestNG.TestHOMEpAGE.test1" />
         <item itemvalue="TestNG.TestHOMEpAGE" />
-        <item itemvalue="TestNG.TestAmazonHome" />
-        <item itemvalue="TestNG.TestAmazonHome.test1" />
+        <item itemvalue="TestNG.C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/CNN/src/test/resources/CNNTestRunner.xml" />
+        <item itemvalue="TestNG.TestHOMEpAGE.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -443,41 +434,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Amazon_src_test_resources_AmazonTestRnner_xml - 2019.09.21 at 13h 44m 44s.xml">
+    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Facebook_src_test_resources_FacebookTestRunner_xml - 2019.09.21 at 18h 10m 54s.xml">
+      <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Facebook/src/test/resources/FacebookTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Facebook_src_test_resources_FacebookTestRunner_xml - 2019.09.21 at 18h 14m 10s.xml">
+      <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Facebook/src/test/resources/FacebookTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHOMEpAGE - 2019.09.22 at 00h 57m 52s.xml">
+      <configuration name="TestHOMEpAGE" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Amazon_src_test_resources_AmazonTestRnner_xml - 2019.09.22 at 00h 58m 27s.xml">
       <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRnner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Amazon_src_test_resources_AmazonTestRnner_xml - 2019.09.21 at 13h 46m 15s.xml">
+    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Amazon_src_test_resources_AmazonTestRnner_xml - 2019.09.22 at 01h 01m 57s.xml">
       <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRnner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Amazon_src_test_resources_AmazonTestRnner_xml - 2019.09.21 at 13h 52m 09s.xml">
+    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Amazon_src_test_resources_AmazonTestRnner_xml - 2019.09.22 at 01h 04m 05s.xml">
       <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRnner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Amazon_src_test_resources_AmazonTestRnner_xml - 2019.09.21 at 13h 53m 20s.xml">
+    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Amazon_src_test_resources_AmazonTestRnner_xml - 2019.09.22 at 01h 05m 09s.xml">
       <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRnner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Amazon_src_test_resources_AmazonTestRnner_xml - 2019.09.21 at 13h 55m 40s.xml">
-      <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRnner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Facebook_src_test_resources_FacebookTestRunner_xml - 2019.09.22 at 02h 09m 12s.xml">
+      <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Facebook/src/test/resources/FacebookTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHOMEpAGE_test1 - 2019.09.21 at 13h 56m 49s.xml">
-      <configuration name="TestHOMEpAGE.test1" configurationId="TestNG" />
+    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Facebook_src_test_resources_FacebookTestRunner_xml - 2019.09.22 at 02h 20m 13s.xml">
+      <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Facebook/src/test/resources/FacebookTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Amazon_src_test_resources_AmazonTestRnner_xml - 2019.09.21 at 13h 57m 19s.xml">
-      <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRnner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Amazon_src_test_resources_AmazonTestRnner_xml - 2019.09.21 at 14h 02m 10s.xml">
-      <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRnner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Amazon_src_test_resources_AmazonTestRnner_xml - 2019.09.21 at 14h 05m 39s.xml">
-      <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRnner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Amazon_src_test_resources_AmazonTestRnner_xml - 2019.09.21 at 16h 29m 46s.xml">
-      <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Amazon/src/test/resources/AmazonTestRnner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_Mohammad_Kabir_IdeaProjects_SeleniumJuly2019_WebAutomationFramework_Facebook_src_test_resources_FacebookTestRunner_xml - 2019.09.22 at 02h 26m 27s.xml">
+      <configuration name="C:/Users/Mohammad Kabir/IdeaProjects/SeleniumJuly2019/WebAutomationFramework/Facebook/src/test/resources/FacebookTestRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19390403" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2003891" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -486,7 +478,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32756326" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40079895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39946738" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -494,7 +486,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32756326" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32756326" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32533333" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -506,7 +498,7 @@
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.13424124" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19844358" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19390403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -515,15 +507,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32756326" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5978695" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39946738" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32756326" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32756326" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32666665" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -532,6 +524,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.13424124" />
     </layout-to-restore>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
@@ -605,13 +598,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/home/TestSocialMedia.java" />
-    <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/FacebookTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/SuiteRunnerWorker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
@@ -624,13 +610,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/home/TestAmazonHome.java" />
-    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/home/Testhomepage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CNN/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1025">
@@ -638,17 +617,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/home/TestNEWS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        <state relative-caret-position="150">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        <state relative-caret-position="1025">
+          <caret line="41" selection-start-line="14" selection-start-column="3" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" selection-start-line="7" selection-start-column="4" selection-end-line="37" />
         </state>
       </provider>
     </entry>
@@ -659,10 +648,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="550">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -675,27 +664,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#954#955#0" expanded="true" />
-            <element signature="e#984#985#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/home/TestNEWS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/home/TestHOMEpAGE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="12" />
+        <state relative-caret-position="450">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -704,8 +674,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRnner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/home/TestHOMEpAGE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/FacebookTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/home/Testhomepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

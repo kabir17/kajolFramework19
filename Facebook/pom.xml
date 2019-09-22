@@ -23,7 +23,11 @@
             <groupId>Original_Project</groupId>
             <artifactId>Generic</artifactId>
             <version>1.0-SNAPSHOT</version>
-            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>Automation-Framework</groupId>
+            <artifactId>Generic</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 

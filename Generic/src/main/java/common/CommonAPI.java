@@ -33,19 +33,19 @@ public class CommonAPI {
         driver.close();
     }
 
-//    //helper methods
-//    public void clickOnElement(String locator){
-//        try {
-//            driver.findElement(By.cssSelector(locator)).click();
-//        }catch (Exception ex){
-//            driver.findElement(By.id(locator)).click();
-//        }
-//    }
-//    public void typeOnElement(String locator,String value){
-//        try {
-//            driver.findElement(By.cssSelector(locator)).sendKeys(value);
-//        }catch (Exception ex2){
-//            driver.findElement(By.id(locator)).sendKeys(value);
-//        }
-//    }
+    //helper methods
+    public void clickOnElement(String locator){
+        try {
+            driver.findElement(By.cssSelector(locator)).click();
+        }catch (Exception ex){
+            driver.findElement(By.id(locator)).click();
+        }
+    }
+    public void typeOnElement(String locator,String value){
+        try {
+            driver.findElement(By.cssSelector(locator)).sendKeys(value);
+        }catch (Exception ex2){
+            driver.findElement(By.id(locator)).sendKeys(value);
+        }
+    }
 }

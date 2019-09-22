@@ -11,7 +11,10 @@ public class TestHOMEpAGE extends CommonAPI {
 
         //System.out.println(driver.getTitle());
 
-            driver.findElement(By.id("twotabsearchtextbox")).sendKeys("java books", Keys.ENTER);
+
+        driver.findElement(By.id("twotabsearchtextbox")).sendKeys("java books", Keys.ENTER);
+        driver.get("https://www.amazon.com/s?k=mac+book+pro&ref=nb_sb_noss_2");
+
 //        //System.out.println(driver.getCurrentUrl());*/
 
        //driver.findElement(By.id("twotabsearchtextbox")).sendKeys("iphone");
